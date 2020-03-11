@@ -14,11 +14,6 @@
 #import "Confuse.h"
 #import "Config.h"
 
-//#import <ALSystemUtilities/ALHardware.h>
-//#import <ALSystemUtilities/ALBattery.h>
-
-#import <ALSystemUtilities/ALProcessor.h>
-
 #import <mach/mach.h>
 #import <mach/mach_host.h>
 #import <sys/sysctl.h>

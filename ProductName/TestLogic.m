@@ -29,4 +29,9 @@
     NSLog(@"TestLogic dealloc");
 }
 
+//- (void)forwardInvocation:(NSInvocation *)anInvocation {
+//    [super forwardInvocation:<#anInvocation#>];
+//    
+//}
+
 @end
